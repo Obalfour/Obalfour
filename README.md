@@ -36,7 +36,7 @@ Data visualizations about a variety of topics. [Available here](https://obalfour
 
 #### Asteroids
 
-My own version of the classic game asteroids with nyan cat as its main character.
+Mobile project for Android of my own version of the classic game asteroids with nyan cat as its main character.
 
 ![Game](https://i.imgur.com/xtChlFj.jpg)
 
