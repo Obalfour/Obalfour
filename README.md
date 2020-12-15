@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Oliver
-#### I am full stack developer and data designer
+## Hi there 👋, my name is Oliver
+### I am full stack developer and data designer
 
 <!--
 **Obalfour/Obalfour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### My Projects
+### My Projects
 
-##### CryptoPokes
+#### CryptoPokes
 
 A Pokémon Trading Card Game using ERC 721 Non-Fungible Tokens only available in the Kovan Network.
 
@@ -28,7 +28,7 @@ Together with my classmates Agustín Golmar and Marcos Ariel Atar, we wrote an [
 
 ![Cryptopokes thumbnail](https://raw.githubusercontent.com/Obalfour/CryptoPokes/main/frontend/public/site-prev.png)
 
-##### Infovis Portfolio
+#### Infovis Portfolio
 
 Data visualizations about a variety of topics. [Available here](https://obalfour.github.io/infovis-itba/index.html)
 
