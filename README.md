@@ -1,4 +1,6 @@
 ## [Visit my portfolio](https://oli.com.ar) 👈
+
+![Portfolio thumbnail](./oli-portfolio.png)
 <!--
 ## Hi there 👋, my name is Oliver
 ### I am full stack developer and data designer
