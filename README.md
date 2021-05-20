@@ -1,6 +1,8 @@
+## [Visit my portfolio](https://oli.com.ar) 👈
+<!--
 ## Hi there 👋, my name is Oliver
 ### I am full stack developer and data designer
-
+-->
 <!--
 **Obalfour/Obalfour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ### My Projects
 
 #### CryptoPokes
@@ -59,4 +61,4 @@ Assignment about implementing a facial recognition software.
 [Find out more](https://github.com/Obalfour/MNA-2019/blob/master/doc/Reconocimiento%20Facial%20M%C3%A9todos%20Num%C3%A9ricos%20Avanzados%20(93.75).pdf)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Obalfour)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oliver-balfour-b93961195/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://oliver-balfour.medium.com/)  
-
+-->
